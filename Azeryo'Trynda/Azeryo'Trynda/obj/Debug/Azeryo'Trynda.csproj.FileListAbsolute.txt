@@ -1,0 +1,12 @@
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\Azeryo'Trynda.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\Azeryo'Trynda.pdb
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\HesaEngine.Core.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\SharpDX.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\Newtonsoft.Json.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\SharpDX.DirectInput.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\SharpDX.Direct3D9.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\HesaEngine.Wrapper.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\bin\Debug\Newtonsoft.Json.xml
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\obj\Debug\Azeryo'Trynda.csprojResolveAssemblyReference.cache
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\obj\Debug\Azeryo'Trynda.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Trynda\Azeryo'Trynda\obj\Debug\Azeryo'Trynda.pdb

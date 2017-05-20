@@ -1,0 +1,12 @@
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\Azeryo'Cassio.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\Azeryo'Cassio.pdb
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\HesaEngine.Core.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\SharpDX.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\SharpDX.DirectInput.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\SharpDX.Direct3D9.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\obj\Debug\Azeryo'Cassio.csprojResolveAssemblyReference.cache
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\obj\Debug\Azeryo'Cassio.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\obj\Debug\Azeryo'Cassio.pdb
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\Newtonsoft.Json.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\HesaEngine.Wrapper.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'Cassio\Azeryo'Cassio\bin\Debug\Newtonsoft.Json.xml

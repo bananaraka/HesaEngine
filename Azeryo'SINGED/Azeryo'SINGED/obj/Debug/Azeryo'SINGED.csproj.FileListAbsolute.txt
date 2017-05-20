@@ -1,0 +1,12 @@
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\Azeryo'SINGED.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\Azeryo'SINGED.pdb
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\HesaEngine.Core.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\SharpDX.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\SharpDX.DirectInput.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\SharpDX.Direct3D9.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\obj\Debug\Azeryo'SINGED.csprojResolveAssemblyReference.cache
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\obj\Debug\Azeryo'SINGED.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\obj\Debug\Azeryo'SINGED.pdb
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\Newtonsoft.Json.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\HesaEngine.Wrapper.dll
+J:\SCRIPTS LOL\Les miens\Azeryo'SINGED\Azeryo'SINGED\bin\Debug\Newtonsoft.Json.xml
