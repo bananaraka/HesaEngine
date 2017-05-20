@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HesaEngine.SDK;
+﻿using HesaEngine.SDK;
 
 namespace Azeryo_Trynda
 {
@@ -11,7 +6,7 @@ namespace Azeryo_Trynda
     {
         public string Author => "Azeryo";
         public string Name => "Azeryo'Trynda";
-        public string Version => "1.0.1";
+        public string Version => "1.0.2";
 
         public void OnInitialize()
         {
